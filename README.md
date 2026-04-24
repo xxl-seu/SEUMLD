@@ -23,12 +23,18 @@ The **Questions** folder contains the details of the 46 questions asked during t
 **If you want to apply for this database, please download the license and follow the introduction.**
 
 ## Reference:
-
-XXXXXXXX
+Xu Xiaolin， Zheng Wenming， Lian Hailun， Li Sunan， Liu Jiateng， Liu Anbang， Lu Cheng， Zong Yuan， Liang Zongbao. 2025. Multimodal lie detection dataset based on Chinese dialogue. Journal of Image and Graphics， 30(8):2729-2742 DOI： 10.11834/jig.240571.
+徐啸林， 郑文明， 连海伦， 李溯南， 刘佳腾， 刘安邦， 路成， 宗源， 梁宗保. 2025. 基于中文对话的多模态谎言检测数据集. 中国图象图形学报， 30(8):2729-2742 DOI： 10.11834/jig.240571.
 
 ## BibTex:
-
-XXXXXXXX
-
+@article{xu2025multimodal,
+  title={Multimodal lie detection dataset based on Chinese dialogue},
+  author={Xu, Xiaolin and Zheng, Wenming and Lian, Hailun and Li, Sunan and Liu, Jiateng and Liu, Anbang and Lu, Cheng and Zong, Yuan and Liang, Zongbao},
+  journal={Journal of Image and Graphics},
+  volume={30},
+  number={8},
+  pages={2729--2742},
+  year={2025}
+}
 
 
